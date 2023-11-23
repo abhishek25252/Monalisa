@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For My Wonderful Wife</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header {
+            background-color: #ff7e75;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            color: #fff;
+        }
+
+        .love-message {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+
+        .image-container {
+            max-width: 100%;
+            margin-bottom: 20px;
+        }
+
+        footer {
+            color: #777;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>For My Wonderful Wife</h1>
+    </header>
+
+    <div class="love-message">
+        <p>Dear [MONALISA],</p>
+        <p>You are the sunshine of my life, and I am grateful for every moment we share together. Your love and presence make every day special.</p>
+        <p>On this page, I just want to express my love and appreciation for you. You are my partner, my confidant, and my best friend. Thank you for being amazing.</p>
+        <p>With all my love,</p>
+        <p>[Andrew]</p>
+    </div>
+
+    <div class="image-container">
+        <!-- Add a beautiful image of you and your wife -->
+        <img src="path/to/your/image.jpg" alt="You and Your Wife">
+    </div>
+
+    <footer>
+        <p>Created with love | [Date]</p>
+    </footer>
+
+</body>
+</html>
